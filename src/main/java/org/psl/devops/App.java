@@ -1,13 +1,12 @@
-package org.psl.devops;
-
 /**
- * Hello world!
+ *Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
-    X
+    k
+{
         System.out.println( "Hello World!" );
     }
-}
+} 
